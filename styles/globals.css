@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+p {
+  font-size: 20px;
+}
+
+.App {
+  min-height: 100vh;
+  height: 100%;
+}
+.wrapper {
+  width: 800px;
+  margin: auto;
+}
